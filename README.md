@@ -52,3 +52,7 @@ git clone https://github.com/Daniel-Antonio-Bandeira/GameFinder
 ```bash
 index.html
 ```
+
+## Página online
+
+https://daniel-antonio-bandeira.github.io/GameFinder/
